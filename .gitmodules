@@ -1,0 +1,6 @@
+[submodule "master"]
+	path = master
+	url = https://github.com/vladdumitru46/TaskManager-Backend.git
+[submodule "main"]
+	path = main
+	url = https://github.com/vladdumitru46/TaskManager-Frontend.git
